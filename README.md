@@ -9,8 +9,6 @@ This project integrates the Kivy framework for a responsive graphical user inter
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository demonstrates the use of Kivy for creating an interactive GUI that allows users to perform various database operations such as Create, Read, Update, and Delete (CRUD) on a MySQL database. The integration ensures real-time updates, making it ideal for applications that require up-to-date information.
