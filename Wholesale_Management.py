@@ -38,6 +38,8 @@ text2 = ''
 
 Window.maximize()
 
+#LOGIN PAGE - ARJUN
+
 
 # FUNCTION_DEFINITIONS
 
@@ -880,7 +882,7 @@ class Forgot_Cust_ID(Screen):
         self.manager.current = 'Login'
 
 
-## ADMIN_PAGES - CHANDAN
+## ADMIN_PAGES - SAMRUDH M
 
 class MainPage(Screen):
     def __init__(self, **kwargs):
@@ -1830,7 +1832,7 @@ class ReviewFeedback(Screen):
         self.manager.current = 'Admin Page'
 
 
-## CUSTOMER_PAGES - HARI
+## CUSTOMER_PAGES - HARI HARDHIK
 
 c.execute("select * from admin")
 items_sql = list(c.fetchall())
