@@ -103,7 +103,7 @@ def pass_check(self, password1, password2):
 
 # MAIN
 
-## LOGIN_PAGES - DEWANSH
+
 
 class ScreenManagement(ScreenManager):
     def __init__(self, **kwargs):
