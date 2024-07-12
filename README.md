@@ -35,7 +35,7 @@ This repository demonstrates the use of Kivy for creating an interactive GUI tha
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd DBMS_Project_Final_Code
+    cd DBMS_Project_Final_Code.py
     ```
 3. **Install the required Python packages**:
     ```sh
@@ -45,9 +45,9 @@ This repository demonstrates the use of Kivy for creating an interactive GUI tha
 ## Configuration
 1. **Set up your MySQL database**:
     - Create a database and the necessary tables for your project.
-    - Update the connection settings in the configuration file (e.g., `config.py` or directly in the script) to match your MySQL setup.
+    - Update the connection settings in the configuration file (e.g., `DBMS_Project_Final_Code.py.py` or directly in the script) to match your MySQL setup.
 
-    Example configuration in `config.py`:
+    Example configuration in `DBMS_Project_Final_Code.py.py`:
     ```python
     MYSQL_HOST = 'localhost'
     MYSQL_USER = 'yourusername'
@@ -58,7 +58,7 @@ This repository demonstrates the use of Kivy for creating an interactive GUI tha
 ## Usage
 1. **Run the main application script**:
     ```sh
-    python main.py
+    python DBMS_Project_Final_Code.py
     ```
 2. **Interact with the GUI**:
     - Use the provided interface to add, update, delete, and retrieve data from the MySQL database.
