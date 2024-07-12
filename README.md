@@ -31,11 +31,11 @@ This repository demonstrates the use of Kivy for creating an interactive GUI tha
 ## Installation
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/kivy-mysql-project.git
+    https://github.com/harihardhikcs127/DBMS-Project-Kivy-MySQL-.git
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd kivy-mysql-project
+    cd main-code
     ```
 3. **Install the required Python packages**:
     ```sh
@@ -63,27 +63,3 @@ This repository demonstrates the use of Kivy for creating an interactive GUI tha
 2. **Interact with the GUI**:
     - Use the provided interface to add, update, delete, and retrieve data from the MySQL database.
     - Observe real-time updates in the GUI reflecting database changes.
-
-## Contributing
-We welcome contributions to enhance the functionality and features of this project. To contribute, follow these steps:
-1. **Fork the repository**.
-2. **Create a new branch**:
-    ```sh
-    git checkout -b feature/YourFeatureName
-    ```
-3. **Make your changes** and commit them:
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch**:
-    ```sh
-    git push origin feature/YourFeatureName
-    ```
-5. **Open a pull request**.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the `README.md` file further to match your project's specifics and organizational preferences.
