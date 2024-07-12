@@ -35,7 +35,7 @@ This repository demonstrates the use of Kivy for creating an interactive GUI tha
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd main-code
+    cd DBMS_Project_Final_Code
     ```
 3. **Install the required Python packages**:
     ```sh
