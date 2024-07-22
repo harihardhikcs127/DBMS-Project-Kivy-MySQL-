@@ -1,4 +1,6 @@
-# Kivy GUI with MySQL Backend
+#Wholesale Database Management System
+
+## Kivy GUI with MySQL Backend
 
 This project integrates the Kivy framework for a responsive graphical user interface (GUI) with MySQL as the backend database, using the Python MySQL Connector for seamless connectivity.
 
