@@ -1,4 +1,4 @@
-#Wholesale Database Management System
+# Wholesale Database Management System
 
 ## Kivy GUI with MySQL Backend
 
